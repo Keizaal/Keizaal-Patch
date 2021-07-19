@@ -1,0 +1,3 @@
+tgm
+tcl
+player.setav speedmult 1000
