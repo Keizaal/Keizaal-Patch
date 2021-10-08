@@ -1,0 +1,19 @@
+{
+	"stringList": {
+		"descriptions": [
+			"Those under the sign of The Apprentice recover Magicka more quickly, but are weaker to magic.",
+			"Those under the sign of The Atronach have more Magicka and a chance to absorb Magicka from incoming spells, but they cannot regenerate Magicka in combat.",
+			"Those under the sign of The Lady regenerate all of their resources more quickly.",
+			"Those under the sign of The Lord have extra Armor Rating and Magic Resistance..",
+			"Those under the sign of The Lover regenerate Stamina much faster, but they cannot gain bonuses from sleeping.",
+			"Those under the sign of The Mage have more Magicka and spend less Magicka when casting spells.",
+			"Those under the sign of The Ritual can summon or reanimate one additional minion, but their summoning and reanimation spells only last half as long.",
+			"Those under the sign of The Serpent have extra Poison Resistance and are skilled in the use of potions and poisons.",
+			"Those under the sign of The Shadow deal increased damage with sneak attacks.",
+			"Those under the sign of The Steed move faster and have a significantly higher carrying capacity.",
+			"Those under the sign of The Thief have more Stamina, move faster, and take less damage from falling.",
+			"Those under the sign of The Tower deal more damage and spend less Stamina when power attacking, but they cannot regenerate Stamina during combat.",
+			"Those under the sign of The Warrior have more Health and are more effective at blocking."
+		]
+	}
+}
