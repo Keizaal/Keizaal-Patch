@@ -1,0 +1,15 @@
+{
+	"mapMarkers": [{
+		"refID": "UniqueBorderGates-All.esp|8DF",
+		"icon": 86
+	}, {
+		"refID": "UniqueBorderGates-All.esp|8E9",
+		"icon": 86
+	}, {
+		"refID": "UniqueBorderGates-All.esp|8EC",
+		"icon": 86
+	}, {
+		"refID": "UniqueBorderGates-All.esp|8FC",
+		"icon": 86
+	}]
+}
