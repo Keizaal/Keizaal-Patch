@@ -1,2 +1,0 @@
-IsActorBase("Skyrim.esm" | 0x000007) AND
-HasPerk("Adamant.esp"|0x98DF4D)
