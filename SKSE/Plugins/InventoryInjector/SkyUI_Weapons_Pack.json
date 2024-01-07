@@ -1,0 +1,137 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Exit-9B/InventoryInjector/main/docs/InventoryInjector.schema.json",
+  "rules": [
+    {
+      "match": {
+        "formType": "Weapon",
+        "keywords": [ "WeapTypeSpear" ]
+      },
+      "assign": {
+        "subTypeDisplay": "$Spear",
+        "iconSource": "skyui_weapons_pack/icons.swf",
+        "iconLabel": "weapon_spear"
+      }
+    },
+    {
+      "match": {
+        "formType": "Weapon",
+        "keywords": [ "WeapTypeJavelin" ]
+      },
+      "assign": {
+        "subTypeDisplay": "$Javelin",
+        "iconSource": "skyui_weapons_pack/icons.swf",
+        "iconLabel": "weapon_javelin"
+      }
+    },
+    {
+      "match": {
+        "formType": "Weapon",
+        "keywords": [ "WeapTypePike" ]
+      },
+      "assign": {
+        "subTypeDisplay": "$Pike",
+        "iconSource": "skyui_weapons_pack/icons.swf",
+        "iconLabel": "weapon_pike"
+      }
+    },
+    {
+      "match": {
+        "formType": "Weapon",
+        "keywords": [ "WeapTypeHalberd" ]
+      },
+      "assign": {
+        "subTypeDisplay": "$Halberd",
+        "iconSource": "skyui_weapons_pack/icons.swf",
+        "iconLabel": "weapon_halberd"
+      }
+    },
+    {
+      "match": {
+        "formType": "Weapon",
+        "keywords": [ "WeapTypeRapier" ]
+      },
+      "assign": {
+        "subTypeDisplay": "$Rapier",
+        "iconSource": "skyui_weapons_pack/icons.swf",
+        "iconLabel": "weapon_rapier"
+      }
+    },
+    {
+      "match": {
+        "formType": "Weapon",
+        "keywords": [ "WeapTypeQuarterstaff" ]
+      },
+      "assign": {
+        "subTypeDisplay": "$Quarterstaff",
+        "iconSource": "skyui_weapons_pack/icons.swf",
+        "iconLabel": "weapon_quarterstaff"
+      }
+    },
+    {
+      "match": {
+        "formType": "Weapon",
+        "keywords": [ "WeapTypeClaw" ]
+      },
+      "assign": {
+        "subTypeDisplay": "$Claw",
+        "iconSource": "skyui_weapons_pack/icons.swf",
+        "iconLabel": "weapon_claw"
+      }
+    },
+    {
+      "match": {
+        "formType": "Weapon",
+        "keywords": [ "WeapTypeWhip" ]
+      },
+      "assign": {
+        "subTypeDisplay": "$Whip",
+        "iconSource": "skyui_weapons_pack/icons.swf",
+        "iconLabel": "weapon_whip"
+      }
+    },
+    {
+      "match": {
+        "formType": "Weapon",
+        "keywords": [ "WeapTypeKatana" ]
+      },
+      "assign": {
+        "subTypeDisplay": "$Katana",
+        "iconSource": "skyui_weapons_pack/icons.swf",
+        "iconLabel": "weapon_katana"
+      }
+    },
+    {
+      "match": {
+        "formType": "Weapon",
+        "keywords": [ "WeapTypeScythe" ]
+      },
+      "assign": {
+        "subTypeDisplay": "$Scythe",
+        "iconSource": "skyui_weapons_pack/icons.swf",
+        "iconLabel": "weapon_scythe"
+      }
+    },
+    {
+      "match": {
+        "formType": "Weapon",
+        "keywords": [ "WeapTypeQtrStaff" ]
+      },
+      "assign": {
+        "subTypeDisplay": "$Qtrstaff",
+        "iconSource": "skyui_weapons_pack/icons.swf",
+        "iconLabel": "weapon_quarterstaff"
+      }
+    },
+    {
+      "match": {
+        "formType": "Weapon",
+        "keywords": [ "WeapTypeGun" ]
+      },
+      "assign": {
+        "subTypeDisplay": "$Gun",
+        "iconSource": "skyui_weapons_pack/icons.swf",
+        "iconLabel": "weapon_gun"
+      }
+    }
+  ]
+}
